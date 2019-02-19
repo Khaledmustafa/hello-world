@@ -1,2 +1,6 @@
 # hello-world
-I want to learn
+
+Hi Khaled :
+
+You are going to start your studies
+that´s why we need you to be here
